@@ -1,0 +1,20 @@
+{
+  "name": "sleep-mode",
+  "author": "alexeyvax, Alexey Vakhrushev <alexeyvax1990@gmail.com>",
+  "homepage": "https://github.com/alexeyvax/sleep-mode",
+  "main": "./lib/sleep-mode",
+  "version": "1.0.0",
+  "description": "Sleep mode package",
+  "bugs": {
+    "url": "https://github.com/alexeyvax/sleep-mode/issues",
+    "email": "alexeyvax1990@gmail.com"
+  },
+  "keywords": [],
+  "activationCommands": {},
+  "repository": "https://github.com/alexeyvax/sleep-mode",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
