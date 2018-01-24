@@ -4,7 +4,7 @@
   "homepage": "https://github.com/alexeyvax/sleep-mode",
   "main": "./lib/sleep-mode",
   "version": "1.0.0",
-  "description": "Sleep mode package",
+  "description": "Sleep mode for Atom with your image",
   "bugs": {
     "url": "https://github.com/alexeyvax/sleep-mode/issues",
     "email": "alexeyvax1990@gmail.com"
