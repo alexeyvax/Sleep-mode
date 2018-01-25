@@ -9,7 +9,14 @@
     "url": "https://github.com/alexeyvax/sleep-mode/issues",
     "email": "alexeyvax1990@gmail.com"
   },
-  "keywords": [],
+  "keywords": [
+    "sleep-mode",
+    "sleep",
+    "mode",
+    "image",
+    "wide-image",
+    "wide"
+  ],
   "activationCommands": {},
   "repository": "https://github.com/alexeyvax/sleep-mode",
   "license": "MIT",

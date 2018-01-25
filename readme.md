@@ -15,4 +15,4 @@ then you can see your image
 
 If you don't set your image, you can see default image
 
-![example](https://github.com/alexeyvax/sleep-mode/blob/master/lib/images/example.png)
+![example](https://github.com/alexeyvax/sleep-mode/blob/master/lib/images/example.png?raw=true)
